@@ -8,10 +8,10 @@
 
 ` 📁site--|
  - 📁|--bootstrap-5.3.3-dist
-  - 👾|--index.html
-  - 📁|2list
-  - 📁|style
-  - 📁|PNG `
+ -- 👾|--index.html
+  -- 📁|2list
+  -- 📁|style
+  -- 📁|PNG `
 
 
 > Пример цитаты
