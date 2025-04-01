@@ -6,13 +6,12 @@
 
 ## Структура проекта
 
-` 📁chan--|
-        📁|--bootstrap-5.3.3-dist
-          📁|site_with_column
-            👾|--index.html
-            📁|2list
-            📁|style
-            📁|PNG `
+` 📁site--|
+        - 📁|--bootstrap-5.3.3-dist
+            - 👾|--index.html
+            - 📁|2list
+            - 📁|style
+            - 📁|PNG `
 
 
 > Пример цитаты
