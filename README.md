@@ -16,7 +16,11 @@
 
 | Languages | Proficiency |
 |-----------|-------------|
-| index.html| главная стра|
+|   HTML    |   Junior    |
+|   CSS     |   Junior    |
+| JAVASCRIPT|   Junior    |
+
+
 
 - [Обзор проекта](#обзор-проекта)
 - [Установка](#установка)
