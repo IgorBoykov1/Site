@@ -7,11 +7,11 @@
 ## Структура проекта
 ```
 📁site|
-📁|bootstrap-5.3.3-dist
-📁|2list
-📁|style
-📁|PNG
-👾|index.html
+    📁|bootstrap-5.3.3-dist
+    📁|2list
+    📁|style
+    📁|PNG
+    👾|index.html
 ```
 
 | Languages | Proficiency |
